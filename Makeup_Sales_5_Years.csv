@@ -1,0 +1,401 @@
+Year,Product Name,Category,Brand,Region,Sales Channel,Units Sold,Revenue
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,North America,Online,2824,70543.52
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,North America,Retail,5506,264453.18
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Europe,Online,4657,182926.96
+2020,Velvet Matte Lipstick,Lipstick,ChicEssence,Europe,Retail,2679,90952.05
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Asia,Online,9935,161344.4
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Asia,Retail,7912,128490.88
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,South America,Online,1488,18332.16
+2020,Velvet Matte Lipstick,Lipstick,LuxeBeauty,South America,Retail,4582,204586.3
+2020,HydraGlow Foundation,Foundation,ChicEssence,North America,Online,9279,315857.16
+2020,HydraGlow Foundation,Foundation,ChicEssence,North America,Retail,1434,54950.88
+2020,HydraGlow Foundation,Foundation,ChicEssence,Europe,Online,4257,46060.74
+2020,HydraGlow Foundation,Foundation,GlowCo,Europe,Retail,9928,484486.4
+2020,HydraGlow Foundation,Foundation,GlowCo,Asia,Online,4611,199656.3
+2020,HydraGlow Foundation,Foundation,LuxeBeauty,Asia,Retail,5557,102748.93
+2020,HydraGlow Foundation,Foundation,ChicEssence,South America,Online,3615,62431.05
+2020,HydraGlow Foundation,Foundation,GlowCo,South America,Retail,7924,137402.16
+2020,LashBoost Mascara,Mascara,LuxeBeauty,North America,Online,5552,123087.84
+2020,LashBoost Mascara,Mascara,GlowCo,North America,Retail,4527,140291.73
+2020,LashBoost Mascara,Mascara,LuxeBeauty,Europe,Online,2674,72946.72
+2020,LashBoost Mascara,Mascara,LuxeBeauty,Europe,Retail,7224,156399.6
+2020,LashBoost Mascara,Mascara,GlowCo,Asia,Online,6881,237188.07
+2020,LashBoost Mascara,Mascara,LuxeBeauty,Asia,Retail,5333,83088.14
+2020,LashBoost Mascara,Mascara,ChicEssence,South America,Online,8527,184950.63
+2020,LashBoost Mascara,Mascara,GlowCo,South America,Retail,3045,75059.25
+2020,SilkTouch Compact,Compact,ChicEssence,North America,Online,2291,64697.84
+2020,SilkTouch Compact,Compact,ChicEssence,North America,Retail,5803,240302.23
+2020,SilkTouch Compact,Compact,ChicEssence,Europe,Online,6925,124580.75
+2020,SilkTouch Compact,Compact,ChicEssence,Europe,Retail,4150,126865.5
+2020,SilkTouch Compact,Compact,LuxeBeauty,Asia,Online,2139,72084.3
+2020,SilkTouch Compact,Compact,GlowCo,Asia,Retail,4733,56133.38
+2020,SilkTouch Compact,Compact,LuxeBeauty,South America,Online,2307,79130.1
+2020,SilkTouch Compact,Compact,GlowCo,South America,Retail,2654,44640.28
+2020,BrowDefine Pencil,Eyebrow,GlowCo,North America,Online,5554,69980.4
+2020,BrowDefine Pencil,Eyebrow,LuxeBeauty,North America,Retail,6977,334616.92
+2020,BrowDefine Pencil,Eyebrow,GlowCo,Europe,Online,7065,343570.95
+2020,BrowDefine Pencil,Eyebrow,ChicEssence,Europe,Retail,4432,187650.88
+2020,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Online,5374,119195.32
+2020,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Retail,2169,30170.79
+2020,BrowDefine Pencil,Eyebrow,ChicEssence,South America,Online,3803,142118.11
+2020,BrowDefine Pencil,Eyebrow,LuxeBeauty,South America,Retail,5010,138326.1
+2020,BlushPop Cheek Tint,Blush,GlowCo,North America,Online,8573,127566.24
+2020,BlushPop Cheek Tint,Blush,ChicEssence,North America,Retail,5422,161629.82
+2020,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Online,4598,52325.24
+2020,BlushPop Cheek Tint,Blush,LuxeBeauty,Europe,Retail,6313,292733.81
+2020,BlushPop Cheek Tint,Blush,LuxeBeauty,Asia,Online,4752,96703.2
+2020,BlushPop Cheek Tint,Blush,GlowCo,Asia,Retail,6168,225132.0
+2020,BlushPop Cheek Tint,Blush,LuxeBeauty,South America,Online,5386,121023.42
+2020,BlushPop Cheek Tint,Blush,ChicEssence,South America,Retail,4456,137244.8
+2020,GlowMax Highlighter,Highlighter,LuxeBeauty,North America,Online,6155,196159.85
+2020,GlowMax Highlighter,Highlighter,GlowCo,North America,Retail,9179,159622.81
+2020,GlowMax Highlighter,Highlighter,LuxeBeauty,Europe,Online,8517,415459.26
+2020,GlowMax Highlighter,Highlighter,LuxeBeauty,Europe,Retail,5339,218952.39
+2020,GlowMax Highlighter,Highlighter,ChicEssence,Asia,Online,5040,239803.2
+2020,GlowMax Highlighter,Highlighter,GlowCo,Asia,Retail,9830,450115.7
+2020,GlowMax Highlighter,Highlighter,ChicEssence,South America,Online,8019,272004.48
+2020,GlowMax Highlighter,Highlighter,GlowCo,South America,Retail,7543,353540.41
+2020,Poreless Primer,Primer,LuxeBeauty,North America,Online,4593,62189.22
+2020,Poreless Primer,Primer,GlowCo,North America,Retail,9348,166768.32
+2020,Poreless Primer,Primer,LuxeBeauty,Europe,Online,2489,29395.09
+2020,Poreless Primer,Primer,LuxeBeauty,Europe,Retail,2796,64335.96
+2020,Poreless Primer,Primer,ChicEssence,Asia,Online,3621,92516.55
+2020,Poreless Primer,Primer,ChicEssence,Asia,Retail,7916,165048.6
+2020,Poreless Primer,Primer,GlowCo,South America,Online,2040,88026.0
+2020,Poreless Primer,Primer,ChicEssence,South America,Retail,7252,176006.04
+2020,UltraStay Setting Spray,Setting Spray,ChicEssence,North America,Online,8668,184108.32
+2020,UltraStay Setting Spray,Setting Spray,ChicEssence,North America,Retail,5119,162323.49
+2020,UltraStay Setting Spray,Setting Spray,ChicEssence,Europe,Online,1188,18580.32
+2020,UltraStay Setting Spray,Setting Spray,ChicEssence,Europe,Retail,2876,121050.84
+2020,UltraStay Setting Spray,Setting Spray,GlowCo,Asia,Online,9797,127165.06
+2020,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Asia,Retail,6573,325232.04
+2020,UltraStay Setting Spray,Setting Spray,GlowCo,South America,Online,5808,237489.12
+2020,UltraStay Setting Spray,Setting Spray,GlowCo,South America,Retail,3591,64458.45
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Online,1053,10761.66
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Retail,5315,226525.3
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Europe,Online,3927,150286.29
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Europe,Retail,2743,107415.88
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Online,5889,240565.65
+2020,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Retail,9317,120748.32
+2020,NudePalette Eyeshadow,Eyeshadow,LuxeBeauty,South America,Online,4258,103639.72
+2020,NudePalette Eyeshadow,Eyeshadow,LuxeBeauty,South America,Retail,7126,104253.38
+2021,Velvet Matte Lipstick,Lipstick,ChicEssence,North America,Online,9837,437943.24
+2021,Velvet Matte Lipstick,Lipstick,ChicEssence,North America,Retail,1009,35244.37
+2021,Velvet Matte Lipstick,Lipstick,GlowCo,Europe,Online,6310,146644.4
+2021,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Europe,Retail,1319,16540.26
+2021,Velvet Matte Lipstick,Lipstick,GlowCo,Asia,Online,6947,155890.68
+2021,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Asia,Retail,4923,113278.23
+2021,Velvet Matte Lipstick,Lipstick,ChicEssence,South America,Online,4946,193784.28
+2021,Velvet Matte Lipstick,Lipstick,LuxeBeauty,South America,Retail,2290,81295.0
+2021,HydraGlow Foundation,Foundation,LuxeBeauty,North America,Online,8962,407681.38
+2021,HydraGlow Foundation,Foundation,LuxeBeauty,North America,Retail,9727,281013.03
+2021,HydraGlow Foundation,Foundation,ChicEssence,Europe,Online,3103,45862.34
+2021,HydraGlow Foundation,Foundation,ChicEssence,Europe,Retail,8787,338563.11
+2021,HydraGlow Foundation,Foundation,GlowCo,Asia,Online,3705,149793.15
+2021,HydraGlow Foundation,Foundation,ChicEssence,Asia,Retail,9645,312980.25
+2021,HydraGlow Foundation,Foundation,LuxeBeauty,South America,Online,7932,323942.88
+2021,HydraGlow Foundation,Foundation,ChicEssence,South America,Retail,9835,292591.25
+2021,LashBoost Mascara,Mascara,ChicEssence,North America,Online,4295,132758.45
+2021,LashBoost Mascara,Mascara,GlowCo,North America,Retail,6107,165499.7
+2021,LashBoost Mascara,Mascara,GlowCo,Europe,Online,7118,78440.36
+2021,LashBoost Mascara,Mascara,GlowCo,Europe,Retail,9479,135739.28
+2021,LashBoost Mascara,Mascara,LuxeBeauty,Asia,Online,2982,33577.32
+2021,LashBoost Mascara,Mascara,LuxeBeauty,Asia,Retail,4681,165988.26
+2021,LashBoost Mascara,Mascara,LuxeBeauty,South America,Online,6539,147585.23
+2021,LashBoost Mascara,Mascara,ChicEssence,South America,Retail,4770,144721.8
+2021,SilkTouch Compact,Compact,LuxeBeauty,North America,Online,4608,213350.4
+2021,SilkTouch Compact,Compact,ChicEssence,North America,Retail,2163,43195.11
+2021,SilkTouch Compact,Compact,LuxeBeauty,Europe,Online,1964,51888.88
+2021,SilkTouch Compact,Compact,LuxeBeauty,Europe,Retail,2104,84622.88
+2021,SilkTouch Compact,Compact,LuxeBeauty,Asia,Online,6413,122808.95
+2021,SilkTouch Compact,Compact,LuxeBeauty,Asia,Retail,9423,123252.84
+2021,SilkTouch Compact,Compact,ChicEssence,South America,Online,5562,120083.58
+2021,SilkTouch Compact,Compact,LuxeBeauty,South America,Retail,8953,147276.85
+2021,BrowDefine Pencil,Eyebrow,LuxeBeauty,North America,Online,9834,464066.46
+2021,BrowDefine Pencil,Eyebrow,LuxeBeauty,North America,Retail,8744,370046.08
+2021,BrowDefine Pencil,Eyebrow,GlowCo,Europe,Online,8749,309189.66
+2021,BrowDefine Pencil,Eyebrow,LuxeBeauty,Europe,Retail,4119,184778.34
+2021,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Online,2588,109084.2
+2021,BrowDefine Pencil,Eyebrow,GlowCo,Asia,Retail,8062,140762.52
+2021,BrowDefine Pencil,Eyebrow,GlowCo,South America,Online,7939,362812.3
+2021,BrowDefine Pencil,Eyebrow,ChicEssence,South America,Retail,8651,273112.07
+2021,BlushPop Cheek Tint,Blush,ChicEssence,North America,Online,1887,79820.1
+2021,BlushPop Cheek Tint,Blush,LuxeBeauty,North America,Retail,2612,119734.08
+2021,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Online,7596,172581.12
+2021,BlushPop Cheek Tint,Blush,LuxeBeauty,Europe,Retail,6559,94449.6
+2021,BlushPop Cheek Tint,Blush,LuxeBeauty,Asia,Online,5073,96995.76
+2021,BlushPop Cheek Tint,Blush,ChicEssence,Asia,Retail,4116,111461.28
+2021,BlushPop Cheek Tint,Blush,LuxeBeauty,South America,Online,8350,356712.0
+2021,BlushPop Cheek Tint,Blush,LuxeBeauty,South America,Retail,7912,351530.16
+2021,GlowMax Highlighter,Highlighter,GlowCo,North America,Online,5563,57187.64
+2021,GlowMax Highlighter,Highlighter,LuxeBeauty,North America,Retail,5092,154949.56
+2021,GlowMax Highlighter,Highlighter,ChicEssence,Europe,Online,8260,220542.0
+2021,GlowMax Highlighter,Highlighter,LuxeBeauty,Europe,Retail,2604,49163.52
+2021,GlowMax Highlighter,Highlighter,LuxeBeauty,Asia,Online,9856,145770.24
+2021,GlowMax Highlighter,Highlighter,LuxeBeauty,Asia,Retail,2528,59408.0
+2021,GlowMax Highlighter,Highlighter,GlowCo,South America,Online,3724,177709.28
+2021,GlowMax Highlighter,Highlighter,GlowCo,South America,Retail,8956,205361.08
+2021,Poreless Primer,Primer,GlowCo,North America,Online,4502,138436.5
+2021,Poreless Primer,Primer,LuxeBeauty,North America,Retail,1960,74715.2
+2021,Poreless Primer,Primer,LuxeBeauty,Europe,Online,7209,176980.95
+2021,Poreless Primer,Primer,GlowCo,Europe,Retail,7396,361442.52
+2021,Poreless Primer,Primer,GlowCo,Asia,Online,8454,410019.0
+2021,Poreless Primer,Primer,ChicEssence,Asia,Retail,7930,159155.1
+2021,Poreless Primer,Primer,LuxeBeauty,South America,Online,8973,268202.97
+2021,Poreless Primer,Primer,GlowCo,South America,Retail,4111,90606.44
+2021,UltraStay Setting Spray,Setting Spray,LuxeBeauty,North America,Online,4566,97666.74
+2021,UltraStay Setting Spray,Setting Spray,LuxeBeauty,North America,Retail,9883,113456.84
+2021,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Europe,Online,6138,211024.44
+2021,UltraStay Setting Spray,Setting Spray,ChicEssence,Europe,Retail,1821,54830.31
+2021,UltraStay Setting Spray,Setting Spray,ChicEssence,Asia,Online,8811,106260.66
+2021,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Asia,Retail,9701,205176.15
+2021,UltraStay Setting Spray,Setting Spray,ChicEssence,South America,Online,1931,89463.23
+2021,UltraStay Setting Spray,Setting Spray,LuxeBeauty,South America,Retail,2312,45268.96
+2021,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Online,2122,33527.6
+2021,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Retail,2113,62502.54
+2021,NudePalette Eyeshadow,Eyeshadow,GlowCo,Europe,Online,4853,239883.79
+2021,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Europe,Retail,2964,58331.52
+2021,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Online,5033,185667.37
+2021,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Retail,1651,66799.46
+2021,NudePalette Eyeshadow,Eyeshadow,GlowCo,South America,Online,2343,45711.93
+2021,NudePalette Eyeshadow,Eyeshadow,GlowCo,South America,Retail,9565,374278.45
+2022,Velvet Matte Lipstick,Lipstick,LuxeBeauty,North America,Online,5272,130271.12
+2022,Velvet Matte Lipstick,Lipstick,LuxeBeauty,North America,Retail,6147,216927.63
+2022,Velvet Matte Lipstick,Lipstick,GlowCo,Europe,Online,5351,189104.34
+2022,Velvet Matte Lipstick,Lipstick,ChicEssence,Europe,Retail,3144,98815.92
+2022,Velvet Matte Lipstick,Lipstick,GlowCo,Asia,Online,5915,80503.15
+2022,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Asia,Retail,6180,268273.8
+2022,Velvet Matte Lipstick,Lipstick,GlowCo,South America,Online,1152,26300.16
+2022,Velvet Matte Lipstick,Lipstick,LuxeBeauty,South America,Retail,2638,46059.48
+2022,HydraGlow Foundation,Foundation,LuxeBeauty,North America,Online,9808,114067.04
+2022,HydraGlow Foundation,Foundation,GlowCo,North America,Retail,9288,312448.32
+2022,HydraGlow Foundation,Foundation,GlowCo,Europe,Online,3170,117607.0
+2022,HydraGlow Foundation,Foundation,LuxeBeauty,Europe,Retail,2127,22673.82
+2022,HydraGlow Foundation,Foundation,GlowCo,Asia,Online,7054,215005.92
+2022,HydraGlow Foundation,Foundation,GlowCo,Asia,Retail,3584,68311.04
+2022,HydraGlow Foundation,Foundation,ChicEssence,South America,Online,9900,354519.0
+2022,HydraGlow Foundation,Foundation,ChicEssence,South America,Retail,5956,101073.32
+2022,LashBoost Mascara,Mascara,LuxeBeauty,North America,Online,9666,363828.24
+2022,LashBoost Mascara,Mascara,ChicEssence,North America,Retail,5905,150400.35
+2022,LashBoost Mascara,Mascara,LuxeBeauty,Europe,Online,2697,128026.59
+2022,LashBoost Mascara,Mascara,LuxeBeauty,Europe,Retail,5333,82661.5
+2022,LashBoost Mascara,Mascara,ChicEssence,Asia,Online,2753,65080.92
+2022,LashBoost Mascara,Mascara,GlowCo,Asia,Retail,3546,51558.84
+2022,LashBoost Mascara,Mascara,ChicEssence,South America,Online,5616,263895.84
+2022,LashBoost Mascara,Mascara,ChicEssence,South America,Retail,4450,200650.5
+2022,SilkTouch Compact,Compact,LuxeBeauty,North America,Online,6617,134457.44
+2022,SilkTouch Compact,Compact,ChicEssence,North America,Retail,5325,193830.0
+2022,SilkTouch Compact,Compact,GlowCo,Europe,Online,9004,384380.76
+2022,SilkTouch Compact,Compact,LuxeBeauty,Europe,Retail,1832,59008.72
+2022,SilkTouch Compact,Compact,GlowCo,Asia,Online,7939,247617.41
+2022,SilkTouch Compact,Compact,LuxeBeauty,Asia,Retail,1722,33871.74
+2022,SilkTouch Compact,Compact,LuxeBeauty,South America,Online,6464,88686.08
+2022,SilkTouch Compact,Compact,LuxeBeauty,South America,Retail,5291,242803.99
+2022,BrowDefine Pencil,Eyebrow,ChicEssence,North America,Online,8239,379158.78
+2022,BrowDefine Pencil,Eyebrow,ChicEssence,North America,Retail,8007,282807.24
+2022,BrowDefine Pencil,Eyebrow,LuxeBeauty,Europe,Online,1158,27282.48
+2022,BrowDefine Pencil,Eyebrow,ChicEssence,Europe,Retail,2232,53501.04
+2022,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Online,3442,134375.68
+2022,BrowDefine Pencil,Eyebrow,GlowCo,Asia,Retail,1590,72949.2
+2022,BrowDefine Pencil,Eyebrow,GlowCo,South America,Online,3426,155814.48
+2022,BrowDefine Pencil,Eyebrow,LuxeBeauty,South America,Retail,3088,127225.6
+2022,BlushPop Cheek Tint,Blush,GlowCo,North America,Online,6050,215864.0
+2022,BlushPop Cheek Tint,Blush,GlowCo,North America,Retail,1653,22100.61
+2022,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Online,4441,73143.27
+2022,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Retail,5088,233742.72
+2022,BlushPop Cheek Tint,Blush,GlowCo,Asia,Online,2684,91953.84
+2022,BlushPop Cheek Tint,Blush,ChicEssence,Asia,Retail,7658,79413.46
+2022,BlushPop Cheek Tint,Blush,LuxeBeauty,South America,Online,3532,49659.92
+2022,BlushPop Cheek Tint,Blush,LuxeBeauty,South America,Retail,3662,133809.48
+2022,GlowMax Highlighter,Highlighter,LuxeBeauty,North America,Online,7755,79101.0
+2022,GlowMax Highlighter,Highlighter,ChicEssence,North America,Retail,3938,64701.34
+2022,GlowMax Highlighter,Highlighter,GlowCo,Europe,Online,6442,205821.9
+2022,GlowMax Highlighter,Highlighter,GlowCo,Europe,Retail,5065,190849.2
+2022,GlowMax Highlighter,Highlighter,ChicEssence,Asia,Online,3608,130176.64
+2022,GlowMax Highlighter,Highlighter,GlowCo,Asia,Retail,2771,52565.87
+2022,GlowMax Highlighter,Highlighter,GlowCo,South America,Online,1634,62892.66
+2022,GlowMax Highlighter,Highlighter,LuxeBeauty,South America,Retail,4644,90511.56
+2022,Poreless Primer,Primer,GlowCo,North America,Online,8541,196613.82
+2022,Poreless Primer,Primer,LuxeBeauty,North America,Retail,6000,239160.0
+2022,Poreless Primer,Primer,LuxeBeauty,Europe,Online,4652,167425.48
+2022,Poreless Primer,Primer,GlowCo,Europe,Retail,4164,183091.08
+2022,Poreless Primer,Primer,GlowCo,Asia,Online,6378,231521.4
+2022,Poreless Primer,Primer,GlowCo,Asia,Retail,2137,69944.01
+2022,Poreless Primer,Primer,ChicEssence,South America,Online,6753,92853.75
+2022,Poreless Primer,Primer,GlowCo,South America,Retail,9346,230939.66
+2022,UltraStay Setting Spray,Setting Spray,GlowCo,North America,Online,9785,201668.85
+2022,UltraStay Setting Spray,Setting Spray,LuxeBeauty,North America,Retail,1452,28691.52
+2022,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Europe,Online,5279,258248.68
+2022,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Europe,Retail,5349,137576.28
+2022,UltraStay Setting Spray,Setting Spray,ChicEssence,Asia,Online,2776,126807.68
+2022,UltraStay Setting Spray,Setting Spray,GlowCo,Asia,Retail,8119,286194.75
+2022,UltraStay Setting Spray,Setting Spray,GlowCo,South America,Online,6139,256548.81
+2022,UltraStay Setting Spray,Setting Spray,LuxeBeauty,South America,Retail,9379,282401.69
+2022,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Online,7311,241847.88
+2022,NudePalette Eyeshadow,Eyeshadow,GlowCo,North America,Retail,4114,122185.8
+2022,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Europe,Online,1727,30757.87
+2022,NudePalette Eyeshadow,Eyeshadow,LuxeBeauty,Europe,Retail,8144,316801.6
+2022,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Online,9518,202067.14
+2022,NudePalette Eyeshadow,Eyeshadow,GlowCo,Asia,Retail,4228,46381.16
+2022,NudePalette Eyeshadow,Eyeshadow,LuxeBeauty,South America,Online,8066,288924.12
+2022,NudePalette Eyeshadow,Eyeshadow,ChicEssence,South America,Retail,6409,109465.72
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,North America,Online,6143,292529.66
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,North America,Retail,3041,146454.56
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,Europe,Online,5920,275812.8
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,Europe,Retail,6067,150522.27
+2023,Velvet Matte Lipstick,Lipstick,GlowCo,Asia,Online,7691,81678.42
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,Asia,Retail,7592,357810.96
+2023,Velvet Matte Lipstick,Lipstick,ChicEssence,South America,Online,5844,158547.72
+2023,Velvet Matte Lipstick,Lipstick,LuxeBeauty,South America,Retail,3085,150146.95
+2023,HydraGlow Foundation,Foundation,ChicEssence,North America,Online,7888,382883.52
+2023,HydraGlow Foundation,Foundation,ChicEssence,North America,Retail,7211,318149.32
+2023,HydraGlow Foundation,Foundation,ChicEssence,Europe,Online,3851,83874.78
+2023,HydraGlow Foundation,Foundation,GlowCo,Europe,Retail,5930,150622.0
+2023,HydraGlow Foundation,Foundation,LuxeBeauty,Asia,Online,9977,439486.85
+2023,HydraGlow Foundation,Foundation,GlowCo,Asia,Retail,5978,135581.04
+2023,HydraGlow Foundation,Foundation,GlowCo,South America,Online,4443,74553.54
+2023,HydraGlow Foundation,Foundation,GlowCo,South America,Retail,6279,202623.33
+2023,LashBoost Mascara,Mascara,GlowCo,North America,Online,8238,390893.1
+2023,LashBoost Mascara,Mascara,ChicEssence,North America,Retail,4501,170317.84
+2023,LashBoost Mascara,Mascara,ChicEssence,Europe,Online,8752,287065.6
+2023,LashBoost Mascara,Mascara,ChicEssence,Europe,Retail,3780,52504.2
+2023,LashBoost Mascara,Mascara,GlowCo,Asia,Online,2389,82659.4
+2023,LashBoost Mascara,Mascara,ChicEssence,Asia,Retail,9445,468472.0
+2023,LashBoost Mascara,Mascara,LuxeBeauty,South America,Online,6491,101259.6
+2023,LashBoost Mascara,Mascara,ChicEssence,South America,Retail,4848,148979.04
+2023,SilkTouch Compact,Compact,LuxeBeauty,North America,Online,6085,274372.65
+2023,SilkTouch Compact,Compact,LuxeBeauty,North America,Retail,4262,168903.06
+2023,SilkTouch Compact,Compact,LuxeBeauty,Europe,Online,1400,53032.0
+2023,SilkTouch Compact,Compact,GlowCo,Europe,Retail,5011,190919.1
+2023,SilkTouch Compact,Compact,GlowCo,Asia,Online,2193,53465.34
+2023,SilkTouch Compact,Compact,ChicEssence,Asia,Retail,7790,169354.6
+2023,SilkTouch Compact,Compact,ChicEssence,South America,Online,4185,177318.45
+2023,SilkTouch Compact,Compact,GlowCo,South America,Retail,7291,309138.4
+2023,BrowDefine Pencil,Eyebrow,LuxeBeauty,North America,Online,7547,337199.96
+2023,BrowDefine Pencil,Eyebrow,ChicEssence,North America,Retail,3417,158993.01
+2023,BrowDefine Pencil,Eyebrow,LuxeBeauty,Europe,Online,1090,33190.5
+2023,BrowDefine Pencil,Eyebrow,LuxeBeauty,Europe,Retail,7965,239427.9
+2023,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Online,3881,162730.33
+2023,BrowDefine Pencil,Eyebrow,GlowCo,Asia,Retail,9486,341496.0
+2023,BrowDefine Pencil,Eyebrow,ChicEssence,South America,Online,1822,69381.76
+2023,BrowDefine Pencil,Eyebrow,LuxeBeauty,South America,Retail,5082,212580.06
+2023,BlushPop Cheek Tint,Blush,LuxeBeauty,North America,Online,8478,386596.8
+2023,BlushPop Cheek Tint,Blush,ChicEssence,North America,Retail,8612,202554.24
+2023,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Online,9702,242744.04
+2023,BlushPop Cheek Tint,Blush,GlowCo,Europe,Retail,6198,85284.48
+2023,BlushPop Cheek Tint,Blush,GlowCo,Asia,Online,9270,307115.1
+2023,BlushPop Cheek Tint,Blush,GlowCo,Asia,Retail,9976,114125.44
+2023,BlushPop Cheek Tint,Blush,ChicEssence,South America,Online,3607,103232.34
+2023,BlushPop Cheek Tint,Blush,GlowCo,South America,Retail,8777,278318.67
+2023,GlowMax Highlighter,Highlighter,LuxeBeauty,North America,Online,5246,112579.16
+2023,GlowMax Highlighter,Highlighter,ChicEssence,North America,Retail,5543,186411.09
+2023,GlowMax Highlighter,Highlighter,ChicEssence,Europe,Online,8939,100295.58
+2023,GlowMax Highlighter,Highlighter,GlowCo,Europe,Retail,4919,56519.31
+2023,GlowMax Highlighter,Highlighter,LuxeBeauty,Asia,Online,8206,352037.4
+2023,GlowMax Highlighter,Highlighter,LuxeBeauty,Asia,Retail,5681,138673.21
+2023,GlowMax Highlighter,Highlighter,GlowCo,South America,Online,5451,82201.08
+2023,GlowMax Highlighter,Highlighter,ChicEssence,South America,Retail,6238,192691.82
+2023,Poreless Primer,Primer,LuxeBeauty,North America,Online,2320,94656.0
+2023,Poreless Primer,Primer,LuxeBeauty,North America,Retail,3471,64664.73
+2023,Poreless Primer,Primer,ChicEssence,Europe,Online,7275,254043.0
+2023,Poreless Primer,Primer,ChicEssence,Europe,Retail,3503,46975.23
+2023,Poreless Primer,Primer,LuxeBeauty,Asia,Online,4505,54375.35
+2023,Poreless Primer,Primer,GlowCo,Asia,Retail,7797,243656.25
+2023,Poreless Primer,Primer,ChicEssence,South America,Online,6421,203096.23
+2023,Poreless Primer,Primer,GlowCo,South America,Retail,8633,306471.5
+2023,UltraStay Setting Spray,Setting Spray,LuxeBeauty,North America,Online,2020,78860.8
+2023,UltraStay Setting Spray,Setting Spray,GlowCo,North America,Retail,7883,386503.49
+2023,UltraStay Setting Spray,Setting Spray,ChicEssence,Europe,Online,1320,40458.0
+2023,UltraStay Setting Spray,Setting Spray,GlowCo,Europe,Retail,7232,165757.44
+2023,UltraStay Setting Spray,Setting Spray,GlowCo,Asia,Online,1096,45823.76
+2023,UltraStay Setting Spray,Setting Spray,GlowCo,Asia,Retail,5892,122730.36
+2023,UltraStay Setting Spray,Setting Spray,ChicEssence,South America,Online,7865,216759.4
+2023,UltraStay Setting Spray,Setting Spray,ChicEssence,South America,Retail,9947,130703.58
+2023,NudePalette Eyeshadow,Eyeshadow,GlowCo,North America,Online,4613,50789.13
+2023,NudePalette Eyeshadow,Eyeshadow,GlowCo,North America,Retail,4595,222903.45
+2023,NudePalette Eyeshadow,Eyeshadow,GlowCo,Europe,Online,8140,353601.6
+2023,NudePalette Eyeshadow,Eyeshadow,GlowCo,Europe,Retail,1475,55814.0
+2023,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Online,6507,171524.52
+2023,NudePalette Eyeshadow,Eyeshadow,ChicEssence,Asia,Retail,7624,129074.32
+2023,NudePalette Eyeshadow,Eyeshadow,GlowCo,South America,Online,3704,60227.04
+2023,NudePalette Eyeshadow,Eyeshadow,ChicEssence,South America,Retail,3091,61850.91
+2024,Velvet Matte Lipstick,Lipstick,LuxeBeauty,North America,Online,9751,311739.47
+2024,Velvet Matte Lipstick,Lipstick,ChicEssence,North America,Retail,7455,287613.9
+2024,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Europe,Online,1444,52576.04
+2024,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Europe,Retail,8022,170066.4
+2024,Velvet Matte Lipstick,Lipstick,LuxeBeauty,Asia,Online,8564,412699.16
+2024,Velvet Matte Lipstick,Lipstick,GlowCo,Asia,Retail,1823,72044.96
+2024,Velvet Matte Lipstick,Lipstick,GlowCo,South America,Online,7211,231977.87
+2024,Velvet Matte Lipstick,Lipstick,GlowCo,South America,Retail,4467,153977.49
+2024,HydraGlow Foundation,Foundation,GlowCo,North America,Online,6355,170186.9
+2024,HydraGlow Foundation,Foundation,GlowCo,North America,Retail,7211,143571.01
+2024,HydraGlow Foundation,Foundation,GlowCo,Europe,Online,7906,191641.44
+2024,HydraGlow Foundation,Foundation,GlowCo,Europe,Retail,2341,94365.71
+2024,HydraGlow Foundation,Foundation,ChicEssence,Asia,Online,1317,13933.86
+2024,HydraGlow Foundation,Foundation,LuxeBeauty,Asia,Retail,9837,144013.68
+2024,HydraGlow Foundation,Foundation,LuxeBeauty,South America,Online,6733,79718.72
+2024,HydraGlow Foundation,Foundation,ChicEssence,South America,Retail,2124,24702.12
+2024,LashBoost Mascara,Mascara,LuxeBeauty,North America,Online,1659,73360.98
+2024,LashBoost Mascara,Mascara,LuxeBeauty,North America,Retail,5051,192695.65
+2024,LashBoost Mascara,Mascara,ChicEssence,Europe,Online,1333,38617.01
+2024,LashBoost Mascara,Mascara,LuxeBeauty,Europe,Retail,3496,48629.36
+2024,LashBoost Mascara,Mascara,GlowCo,Asia,Online,3068,90996.88
+2024,LashBoost Mascara,Mascara,ChicEssence,Asia,Retail,2874,83173.56
+2024,LashBoost Mascara,Mascara,GlowCo,South America,Online,4571,77387.03
+2024,LashBoost Mascara,Mascara,GlowCo,South America,Retail,5198,142165.3
+2024,SilkTouch Compact,Compact,ChicEssence,North America,Online,3749,97249.06
+2024,SilkTouch Compact,Compact,LuxeBeauty,North America,Retail,2876,99595.88
+2024,SilkTouch Compact,Compact,LuxeBeauty,Europe,Online,6096,215798.4
+2024,SilkTouch Compact,Compact,GlowCo,Europe,Retail,1420,16770.2
+2024,SilkTouch Compact,Compact,GlowCo,Asia,Online,7149,178582.02
+2024,SilkTouch Compact,Compact,LuxeBeauty,Asia,Retail,4249,148842.47
+2024,SilkTouch Compact,Compact,LuxeBeauty,South America,Online,4978,149987.14
+2024,SilkTouch Compact,Compact,ChicEssence,South America,Retail,5941,262948.66
+2024,BrowDefine Pencil,Eyebrow,ChicEssence,North America,Online,2983,108432.05
+2024,BrowDefine Pencil,Eyebrow,GlowCo,North America,Retail,1672,27621.44
+2024,BrowDefine Pencil,Eyebrow,GlowCo,Europe,Online,9728,124712.96
+2024,BrowDefine Pencil,Eyebrow,LuxeBeauty,Europe,Retail,7071,252434.7
+2024,BrowDefine Pencil,Eyebrow,ChicEssence,Asia,Online,9289,102736.34
+2024,BrowDefine Pencil,Eyebrow,LuxeBeauty,Asia,Retail,6590,220303.7
+2024,BrowDefine Pencil,Eyebrow,GlowCo,South America,Online,7882,375262.02
+2024,BrowDefine Pencil,Eyebrow,GlowCo,South America,Retail,2729,90111.58
+2024,BlushPop Cheek Tint,Blush,ChicEssence,North America,Online,6934,177025.02
+2024,BlushPop Cheek Tint,Blush,ChicEssence,North America,Retail,8532,304848.36
+2024,BlushPop Cheek Tint,Blush,GlowCo,Europe,Online,3506,99324.98
+2024,BlushPop Cheek Tint,Blush,ChicEssence,Europe,Retail,3885,123620.7
+2024,BlushPop Cheek Tint,Blush,ChicEssence,Asia,Online,9548,455057.68
+2024,BlushPop Cheek Tint,Blush,ChicEssence,Asia,Retail,5425,138012.0
+2024,BlushPop Cheek Tint,Blush,GlowCo,South America,Online,9817,475633.65
+2024,BlushPop Cheek Tint,Blush,GlowCo,South America,Retail,8616,398145.36
+2024,GlowMax Highlighter,Highlighter,GlowCo,North America,Online,5397,96228.51
+2024,GlowMax Highlighter,Highlighter,LuxeBeauty,North America,Retail,5022,64130.94
+2024,GlowMax Highlighter,Highlighter,GlowCo,Europe,Online,5569,78133.07
+2024,GlowMax Highlighter,Highlighter,GlowCo,Europe,Retail,4995,53596.35
+2024,GlowMax Highlighter,Highlighter,GlowCo,Asia,Online,7209,99340.02
+2024,GlowMax Highlighter,Highlighter,GlowCo,Asia,Retail,1470,54860.4
+2024,GlowMax Highlighter,Highlighter,LuxeBeauty,South America,Online,6325,81276.25
+2024,GlowMax Highlighter,Highlighter,LuxeBeauty,South America,Retail,8988,204566.88
+2024,Poreless Primer,Primer,GlowCo,North America,Online,6813,298409.4
+2024,Poreless Primer,Primer,GlowCo,North America,Retail,6576,71875.68
+2024,Poreless Primer,Primer,ChicEssence,Europe,Online,5526,235297.08
+2024,Poreless Primer,Primer,ChicEssence,Europe,Retail,1166,24800.82
+2024,Poreless Primer,Primer,LuxeBeauty,Asia,Online,4130,60834.9
+2024,Poreless Primer,Primer,ChicEssence,Asia,Retail,4954,187607.98
+2024,Poreless Primer,Primer,GlowCo,South America,Online,7658,269255.28
+2024,Poreless Primer,Primer,ChicEssence,South America,Retail,4937,222658.7
+2024,UltraStay Setting Spray,Setting Spray,ChicEssence,North America,Online,8800,346720.0
+2024,UltraStay Setting Spray,Setting Spray,GlowCo,North America,Retail,9041,380987.74
+2024,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Europe,Online,1282,27280.96
+2024,UltraStay Setting Spray,Setting Spray,LuxeBeauty,Europe,Retail,5820,99522.0
+2024,UltraStay Setting Spray,Setting Spray,ChicEssence,Asia,Online,7625,305152.5
+2024,UltraStay Setting Spray,Setting Spray,GlowCo,Asia,Retail,4986,210758.22
+2024,UltraStay Setting Spray,Setting Spray,GlowCo,South America,Online,7046,349622.52
+2024,UltraStay Setting Spray,Setting Spray,GlowCo,South America,Retail,9698,256997.0
+2024,NudePalette Eyeshadow,Eyeshadow,ChicEssence,North America,Online,7971,198318.48
+2024,NudePalette Eyeshadow,Eyeshadow,GlowCo,North America,Retail,6419,263564.14
+2024,NudePalette Eyeshadow,Eyeshadow,GlowCo,Europe,Online,8434,199295.42
+2024,NudePalette Eyeshadow,Eyeshadow,GlowCo,Europe,Retail,6023,284466.29
+2024,NudePalette Eyeshadow,Eyeshadow,LuxeBeauty,Asia,Online,4777,211812.18
+2024,NudePalette Eyeshadow,Eyeshadow,GlowCo,Asia,Retail,4155,112849.8
+2024,NudePalette Eyeshadow,Eyeshadow,ChicEssence,South America,Online,2958,118408.74
+2024,NudePalette Eyeshadow,Eyeshadow,ChicEssence,South America,Retail,9779,392920.22
